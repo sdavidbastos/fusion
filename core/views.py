@@ -4,5 +4,5 @@ from django.shortcuts import render
 # Create your views here.
 
 def index():
-    result = "teste"
+    result = "asd"
     return result
